@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name original_keyboard-rescue)(type Legacy)(uri ${KIPRJMOD}/original_keyboard-rescue.lib)(options "")(descr ""))
+  (lib (name kbd)(type Legacy)(uri "/Users/shimizu/Library/Mobile Documents/com~apple~CloudDocs/foostan_kbd/library/kbd.lib")(options "")(descr ""))
+)
